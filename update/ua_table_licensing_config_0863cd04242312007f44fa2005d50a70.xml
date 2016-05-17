@@ -9,15 +9,15 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-05-17 17:44:59</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>eb9cf8c0242312007f44fa2005d50a58</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0863cd04242312007f44fa2005d50a70</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_k16_lab</sys_name>
         <sys_package display_value="K16" source="x_k16">529c74c0242312007f44fa2005d50a72</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="K16">529c74c0242312007f44fa2005d50a72</sys_scope>
-        <sys_update_name>ua_table_licensing_config_eb9cf8c0242312007f44fa2005d50a58</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_0863cd04242312007f44fa2005d50a70</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2016-05-17 17:44:59</sys_updated_on>
     </ua_table_licensing_config>
